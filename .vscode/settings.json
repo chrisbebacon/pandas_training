@@ -1,0 +1,6 @@
+{
+    "ollama-autocoder.model": "codellama:latest",
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "ollama-autocoder.message header": "The following is a COMPLETE {LANG} file named {FILE_NAME} in the project {PROJECT_NAME}. Always add the added code with comment marks in front of the line, such that they are commented out per default.\n\n```\n"
+}
